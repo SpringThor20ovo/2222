@@ -14,3 +14,5 @@ hard hard hard
 
 soft soft soft
 forward forward forward
+test test test
+read read read 
